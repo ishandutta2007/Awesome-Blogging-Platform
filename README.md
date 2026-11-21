@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Blogging-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Blogging-Platform?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Blogging-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Blogging-Platform?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Blogging-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Blogging-Platform?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Blogging-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Blogging-Platform" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Blogging-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Blogging-Platform" alt="License" /></a>
@@ -31,7 +31,7 @@ Welcome to the definitive, SEO-optimized awesome list tracking cutting-edge **Sa
 - [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
-  - [🏆 Ranked by GitHub Stars](#-ranked-by-github-stars)
+  - [🏆 Ranked by GitHub_Stars](#-ranked-by-github-stars)
   - [🛠️ Complementary Open-Source Tools](#️-complementary-open-source-tools)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [💖 Support & Share](#-support--share)
@@ -75,65 +75,65 @@ A complete comparison of hosted blogging and publishing platforms, detailing exa
 
 Explore the finest self-hosted CMS applications, static site engines, and decentralized blogging networks.
 
-### 🏆 Ranked by GitHub Stars
+### 🏆 Ranked by GitHub_Stars
 
 *Repositories are sorted in descending order of current GitHub stargazer counts.*
 
-1. **[Hugo](https://github.com/gohugoio/hugo)** [![GitHub stars](https://img.shields.io/github/stars/gohugoio/hugo?style=social&color=white)](https://github.com/gohugoio/hugo/stargazers)  
+1. **[Hugo](https://github.com/gohugoio/hugo)** [![GitHub_Stars](https://img.shields.io/github/stars/gohugoio/hugo?style=social&color=white)](https://github.com/gohugoio/hugo/stargazers)  
    The world’s fastest open-source static site generator and framework written in Go. Compiles thousands of Markdown blog posts into production HTML/CSS in milliseconds with zero dependencies and built-in asset bundling.
 
-2. **[Astro](https://github.com/withastro/astro)** [![GitHub stars](https://img.shields.io/github/stars/withastro/astro?style=social&color=white)](https://github.com/withastro/astro/stargazers)  
+2. **[Astro](https://github.com/withastro/astro)** [![GitHub_Stars](https://img.shields.io/github/stars/withastro/astro?style=social&color=white)](https://github.com/withastro/astro/stargazers)  
    The modern web framework for content-driven websites, blogs, and documentation. Delivers zero-JS-by-default performance, Content Collections with strict TypeScript schema validation, Markdown/MDX authoring, and islands architecture.
 
-3. **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)  
+3. **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub_Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)  
    Leading open-source Node.js publishing platform for independent writers, publishers, and publications. Features a rich lexical block editor, native email newsletter distribution, paid subscription memberships, and ActivityPub federation.
 
-4. **[Jekyll](https://github.com/jekyll/jekyll)** [![GitHub stars](https://img.shields.io/github/stars/jekyll/jekyll?style=social&color=white)](https://github.com/jekyll/jekyll/stargazers)  
+4. **[Jekyll](https://github.com/jekyll/jekyll)** [![GitHub_Stars](https://img.shields.io/github/stars/jekyll/jekyll?style=social&color=white)](https://github.com/jekyll/jekyll/stargazers)  
    The battle-tested Ruby static site generator natively integrated with GitHub Pages. Transforms raw Markdown, Liquid templates, and directory hierarchies into deployable, zero-maintenance static websites.
 
-5. **[Hexo](https://github.com/hexojs/hexo)** [![GitHub stars](https://img.shields.io/github/stars/hexojs/hexo?style=social&color=white)](https://github.com/hexojs/hexo/stargazers)  
+5. **[Hexo](https://github.com/hexojs/hexo)** [![GitHub_Stars](https://img.shields.io/github/stars/hexojs/hexo?style=social&color=white)](https://github.com/hexojs/hexo/stargazers)  
    A lightning-fast, simple, and powerful blogging framework powered by Node.js. Supports one-command multi-platform deployment, super-fast post generation, and an extensive plugin and theme ecosystem.
 
-6. **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)  
+6. **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub_Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)  
    High-performance self-hosted newsletter and mailing list manager packaged as a single Go binary with PostgreSQL. Features public web archive modes ideal for independent Substack-style newsletter blogs and multi-list publishing.
 
-7. **[Forem](https://github.com/forem/forem)** [![GitHub stars](https://img.shields.io/github/stars/forem/forem?style=social&color=white)](https://github.com/forem/forem/stargazers)  
+7. **[Forem](https://github.com/forem/forem)** [![GitHub_Stars](https://img.shields.io/github/stars/forem/forem?style=social&color=white)](https://github.com/forem/forem/stargazers)  
    Open-source community blogging and discussion software engineered in Ruby on Rails, powering the DEV.to developer network. Designed for building collaborative blogging and creator communities.
 
-8. **[WordPress](https://github.com/WordPress/WordPress)** [![GitHub stars](https://img.shields.io/github/stars/WordPress/WordPress?style=social&color=white)](https://github.com/WordPress/WordPress/stargazers)  
+8. **[WordPress](https://github.com/WordPress/WordPress)** [![GitHub_Stars](https://img.shields.io/github/stars/WordPress/WordPress?style=social&color=white)](https://github.com/WordPress/WordPress/stargazers)  
    The world's most widely deployed open-source content management and blogging software (PHP/MySQL). Features the Gutenberg block editor, REST API, multi-author workflows, and thousands of themes and plugins.
 
-9. **[Eleventy (11ty)](https://github.com/11ty/eleventy)** [![GitHub stars](https://img.shields.io/github/stars/11ty/eleventy?style=social&color=white)](https://github.com/11ty/eleventy/stargazers)  
+9. **[Eleventy (11ty)](https://github.com/11ty/eleventy)** [![GitHub_Stars](https://img.shields.io/github/stars/11ty/eleventy?style=social&color=white)](https://github.com/11ty/eleventy/stargazers)  
    Simpler, flexible JavaScript static site generator that transforms template directories (Markdown, Nunjucks, Liquid, WebC) into production HTML with zero client-side JavaScript lock-in.
 
-10. **[Zola](https://github.com/getzola/zola)** [![GitHub stars](https://img.shields.io/github/stars/getzola/zola?style=social&color=white)](https://github.com/getzola/zola/stargazers)  
+10. **[Zola](https://github.com/getzola/zola)** [![GitHub_Stars](https://img.shields.io/github/stars/getzola/zola?style=social&color=white)](https://github.com/getzola/zola/stargazers)  
     Blazing-fast static site generator written in Rust, distributed as a single zero-dependency binary. Features built-in Sass compilation, syntax highlighting, search indexing, and Tera templating.
 
-11. **[Grav](https://github.com/getgrav/grav)** [![GitHub stars](https://img.shields.io/github/stars/getgrav/grav?style=social&color=white)](https://github.com/getgrav/grav/stargazers)  
+11. **[Grav](https://github.com/getgrav/grav)** [![GitHub_Stars](https://img.shields.io/github/stars/getgrav/grav?style=social&color=white)](https://github.com/getgrav/grav/stargazers)  
     Modern, fast, flat-file CMS built on PHP, Markdown, Twig, and Symfony. Eliminates traditional SQL database overhead while delivering an extensible plugin architecture and powerful admin dashboard.
 
-12. **[Pelican](https://github.com/getpelican/pelican)** [![GitHub stars](https://img.shields.io/github/stars/getpelican/pelican?style=social&color=white)](https://github.com/getpelican/pelican/stargazers)  
+12. **[Pelican](https://github.com/getpelican/pelican)** [![GitHub_Stars](https://img.shields.io/github/stars/getpelican/pelican?style=social&color=white)](https://github.com/getpelican/pelican/stargazers)  
     Popular static site generator for Python developers supporting Markdown and reStructuredText (reST) syntax. Easily integrates Jinja2 templates and feeds (RSS/Atom).
 
-13. **[Publii](https://github.com/GetPublii/Publii)** [![GitHub stars](https://img.shields.io/github/stars/GetPublii/Publii?style=social&color=white)](https://github.com/GetPublii/Publii/stargazers)  
+13. **[Publii](https://github.com/GetPublii/Publii)** [![GitHub_Stars](https://img.shields.io/github/stars/GetPublii/Publii?style=social&color=white)](https://github.com/GetPublii/Publii/stargazers)  
     Intuitive desktop-based Static Site CMS designed for building fast, SEO-optimized, privacy-focused static blogs without terminal commands. Directly syncs output to GitHub Pages, GitLab, Netlify, or AWS S3.
 
-14. **[SilverBullet](https://github.com/silverbulletmd/silverbullet)** [![GitHub stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers)  
+14. **[SilverBullet](https://github.com/silverbulletmd/silverbullet)** [![GitHub_Stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers)  
     An extensible, open-source personal knowledge base and publishing notebook powered by Markdown and Lua. Runs locally or in the cloud with live sync and clean web-reading views.
 
-15. **[WriteFreely](https://github.com/writefreely/writefreely)** [![GitHub stars](https://img.shields.io/github/stars/writefreely/writefreely?style=social&color=white)](https://github.com/writefreely/writefreely/stargazers)  
+15. **[WriteFreely](https://github.com/writefreely/writefreely)** [![GitHub_Stars](https://img.shields.io/github/stars/writefreely/writefreely?style=social&color=white)](https://github.com/writefreely/writefreely/stargazers)  
     Clean, minimalist open-source Go blogging platform supporting distraction-free Markdown publishing, multi-user community publications, and native ActivityPub federation across the Fediverse.
 
-16. **[Bear Blog Core](https://github.com/HermanMartinus/bearblog)** [![GitHub stars](https://img.shields.io/github/stars/HermanMartinus/bearblog?style=social&color=white)](https://github.com/HermanMartinus/bearblog/stargazers)  
+16. **[Bear Blog Core](https://github.com/HermanMartinus/bearblog)** [![GitHub_Stars](https://img.shields.io/github/stars/HermanMartinus/bearblog?style=social&color=white)](https://github.com/HermanMartinus/bearblog/stargazers)  
     The open-source Django codebase powering Bear Blog. Engineered for ultra-lightweight, zero-bloat Markdown blogging with tiny CSS stylesheets and instant load times.
 
-17. **[Plume](https://github.com/Plume-org/Plume)** [![GitHub stars](https://img.shields.io/github/stars/Plume-org/Plume?style=social&color=white)](https://github.com/Plume-org/Plume/stargazers)  
+17. **[Plume](https://github.com/Plume-org/Plume)** [![GitHub_Stars](https://img.shields.io/github/stars/Plume-org/Plume?style=social&color=white)](https://github.com/Plume-org/Plume/stargazers)  
     Federated blogging engine implemented in Rust, built natively on top of the ActivityPub protocol to share articles seamlessly with Mastodon and the broader Fediverse.
 
-18. **[Bludit](https://github.com/bludit/bludit)** [![GitHub stars](https://img.shields.io/github/stars/bludit/bludit?style=social&color=white)](https://github.com/bludit/bludit/stargazers)  
+18. **[Bludit](https://github.com/bludit/bludit)** [![GitHub_Stars](https://img.shields.io/github/stars/bludit/bludit?style=social&color=white)](https://github.com/bludit/bludit/stargazers)  
     Simple, fast, secure flat-file CMS using JSON files to store content. Ideal for lightweight blogs and documentation sites requiring quick setup with zero SQL database configuration.
 
-19. **[Mataroa](https://github.com/mataroa-blog/mataroa)** [![GitHub stars](https://img.shields.io/github/stars/mataroa-blog/mataroa?style=social&color=white)](https://github.com/mataroa-blog/mataroa/stargazers)  
+19. **[Mataroa](https://github.com/mataroa-blog/mataroa)** [![GitHub_Stars](https://img.shields.io/github/stars/mataroa-blog/mataroa?style=social&color=white)](https://github.com/mataroa-blog/mataroa/stargazers)  
     A naked, minimalist blogging platform core designed around pure HTML/Markdown, privacy protection, automatic RSS feeds, and zero JavaScript bloat.
 
 ---
@@ -142,9 +142,9 @@ Explore the finest self-hosted CMS applications, static site engines, and decent
 
 Supercharge your static or self-hosted blogging stack with these essential open-source integrations:
 
-- **[Giscus](https://github.com/giscus/giscus)** [![GitHub stars](https://img.shields.io/github/stars/giscus/giscus?style=social&color=white)](https://github.com/giscus/giscus/stargazers) — Comment system powered by GitHub Discussions for static sites.
-- **[Remark42](https://github.com/umputun/remark42)** [![GitHub stars](https://img.shields.io/github/stars/umputun/remark42?style=social&color=white)](https://github.com/umputun/remark42/stargazers) — Privacy-focused, lightweight, self-hosted commenting engine.
-- **[Linkding](https://github.com/sissbruecker/linkding)** [![GitHub stars](https://img.shields.io/github/stars/sissbruecker/linkding?style=social&color=white)](https://github.com/sissbruecker/linkding/stargazers) — Self-hosted, minimalist bookmark manager for curated link-blogging.
+- **[Giscus](https://github.com/giscus/giscus)** [![GitHub_Stars](https://img.shields.io/github/stars/giscus/giscus?style=social&color=white)](https://github.com/giscus/giscus/stargazers) — Comment system powered by GitHub Discussions for static sites.
+- **[Remark42](https://github.com/umputun/remark42)** [![GitHub_Stars](https://img.shields.io/github/stars/umputun/remark42?style=social&color=white)](https://github.com/umputun/remark42/stargazers) — Privacy-focused, lightweight, self-hosted commenting engine.
+- **[Linkding](https://github.com/sissbruecker/linkding)** [![GitHub_Stars](https://img.shields.io/github/stars/sissbruecker/linkding?style=social&color=white)](https://github.com/sissbruecker/linkding/stargazers) — Self-hosted, minimalist bookmark manager for curated link-blogging.
 
 ---
 
@@ -156,7 +156,7 @@ Contributions are welcome and highly appreciated! To submit a new blogging platf
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-platform`).
 3. 📝 **Add or update the platform entry** following the established format:
    - Include platform name, live/repo URL, 1–2 sentence factual summary, starting pricing, and free tier limits.
-   - For open-source repos, ensure you add the star badge linked to the repo's stargazers page.
+   - For open-source repos, ensure you add the Stars_Badge linked to the repo's stargazers page.
 4. 🚀 **Commit your changes** (`git commit -m "Add NewPlatform to open-source list"`).
 5. 📬 **Open a Pull Request** describing your additions.
 
