@@ -30,83 +30,31 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Support & Share](#support--share)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global blogging and web publishing platform sector is estimated at approximately .2 billion (within the broader + content management system market), expanding at a 10–14% CAGR. The sector is moderately fragmented rather than winner-take-all: while legacy behemoths (like Automattic/WordPress) anchor broad CMS usage, rapid audience shift toward independent newsletters (Substack, beehiiv), developer-centric hubs (DEV.to, Hashnode), and minimalist/Fediverse alternatives prevents singular platform monopolization.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Bear Blog](https://bearblog.dev)**  
-
-  Privacy-first, ultra-minimalist Markdown blogging platform with zero JavaScript bloat, no trackers, built-in RSS/email newsletters, and blazing-fast page loads.
-
-
-
-- **[Substack](https://substack.com)**  
-
-  Creator-focused newsletter and long-form blogging platform combining web publishing, paid subscriptions, podcasts, and built-in reader network discovery.
-
-
-
-- **[Medium](https://medium.com)**  
-
-  Social publishing and digital reading platform connecting writers with a built-in audience, curated publications, and Partner Program monetization.
-
-
-
-- **[Hashnode](https://hashnode.com)**  
-
-  Developer-centric blogging platform offering custom domain mapping, GitHub backup sync, Markdown/WYSIWYG editing, and an active engineering community.
-
-
-
-- **[beehiiv](https://beehiiv.com)**  
-
-  Modern newsletter and web-publishing platform engineered for audience growth, referral programs, custom web themes, and built-in ad network monetization.
-
-
-
-- **[WordPress.com (Automattic)](https://wordpress.com)**  
-
-  Managed cloud hosting platform built on WordPress offering automated backups, global CDN, plugin ecosystems, and custom domain publishing.
-
-
-
-- **[Ghost(Pro)](https://ghost.org)**  
-
-  Official managed hosting service for the open-source Ghost CMS, providing turnkey memberships, paid newsletters, custom themes, and zero-maintenance scaling.
-
-
-
-- **[DEV.to](https://dev.to)**  
-
-  Major developer community blogging platform (powered by the open-source Forem engine) for sharing tutorials, technical articles, and open-source updates.
-
-
-
-- **[Write.as](https://write.as)**  
-
-  Distraction-free, privacy-respecting minimalist publishing and Fediverse-connected blogging service powered by open-source WriteFreely.
-
-
-
-- **[Blogger (Google)](https://blogger.com)**  
-
-  Long-running free hosted blogging platform by Google offering custom domains, built-in themes, and AdSense integration.
-
-
-
-
+| Platform | Description | Pricing (Starting Paid Tier) | Free Tier Limits / Free Trial | Company Scale (Valuation / Revenue) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Blogger (Google)](https://blogger.com)** | Long-running hosted blogging platform by Google offering custom domains, built-in themes, and AdSense integration. |  (Free hosted service; custom domain registration purchased separately ~/yr) | Free forever: 100 blogs per account, up to 1GB Google Photos storage for media, 20 static pages per blog, standard Google bandwidth limits. | Parent Alphabet: ~.3T Market Cap / + Annual Revenue |
+| **[WordPress.com (Automattic)](https://wordpress.com)** | Managed cloud hosting platform built on WordPress offering automated backups, global CDN, and plugin ecosystems. | /month (Personal plan, billed annually at /yr; or /mo month-to-month) | Free forever: 1 GB storage, *.wordpress.com subdomain, unlimited pages/posts; no custom plugins/themes, displays WordPress ads. | Automattic: .5B Valuation / ~+ Annual Revenue |
+| **[Substack](https://substack.com)** | Creator-focused newsletter and long-form blogging platform combining web publishing, paid subscriptions, and built-in reader discovery. | 10% platform take-rate cut on paid subscription revenue (no recurring monthly platform subscription fee) | Free forever: Unlimited subscribers, unlimited posts/newsletters sent, unlimited web hosting; 10% cut applies only when charging readers;  one-time fee for custom domains. | Substack: .1B Valuation / ~ ARR |
+| **[beehiiv](https://beehiiv.com)** | Modern newsletter and web-publishing platform engineered for audience growth, referral programs, and built-in monetization. | /month (Lite plan, billed annually at /yr; or /mo month-to-month) | Free forever (Free plan): Up to 2,500 active subscribers, unlimited email sends, custom domain support, basic analytics; 0 monetization tools on free tier. | beehiiv: ~ Valuation / ~+ ARR |
+| **[Medium](https://medium.com)** | Social publishing and digital reading platform connecting writers with a built-in audience and Partner Program monetization. | /month (or /year for Medium Member reader plan; publishing is free) | Free forever: Unlimited free story publishing (rate-limited to 2–3 stories per rolling 24 hours for anti-spam), limited member-only story reads per month. | Medium: ~ VC Funding Raised / ~ Annual Revenue |
+| **[DEV.to](https://dev.to)** | Major developer community blogging platform (powered by Forem) for sharing tutorials, technical articles, and open-source updates. |  for creators (Community publishing is free; enterprise Forem hosting / sponsorships are custom-quoted) | Free forever: Unlimited posts, unlimited community reading, unlimited comments, custom canonical URLs, profile/organization pages. | DEV / Forem: .5M VC Funding Raised / Undisclosed ARR |
+| **[Ghost(Pro)](https://ghost.org)** | Official managed hosting service for the open-source Ghost CMS, providing turnkey memberships, paid newsletters, and custom themes. | /month (Starter plan, billed annually at /yr; or /mo month-to-month) | 14-day free trial (full Starter plan capabilities up to 1,000 members, 1 staff user, no billing during trial); no permanent free hosting tier. | Ghost Foundation: Bootstrapped Non-Profit ( Valuation) / ~.1M ARR |
+| **[Hashnode](https://hashnode.com)** | Developer-centric blogging platform offering custom domain mapping, GitHub backup sync, and an active engineering community. | /month per seat/publication (Pro plan, billed annually at /yr) | Free forever: 1 publication/blog on *.hashnode.dev subdomain, unlimited articles, markdown editor, comments, basic analytics. | Hashnode:  VC Funding Raised / Undisclosed ARR |
+| **[Write.as](https://write.as)** | Distraction-free, privacy-respecting minimalist publishing and Fediverse-connected blogging service powered by WriteFreely. | /month (Pro plan, billed annually at /yr; or /mo month-to-month) | Free forever: 1 personal blog on Write.as subdomain, 3 to 15 posts per day, plain-text editor, RSS & ActivityPub federation (no custom domain/CSS). | Musing Studio: Bootstrapped / ~ Annual Revenue |
+| **[Bear Blog](https://bearblog.dev)** | Privacy-first, ultra-minimalist Markdown blogging platform with zero JavaScript bloat, no trackers, and built-in RSS. | /month (or /year; or  one-time lifetime license) | Free forever: 1 blog on *.bearblog.dev subdomain, unlimited markdown posts, built-in RSS/Atom feeds; no custom domain, no image upload storage. | Bootstrapped Solo Indie / ~ ARR |
 
 ## Open-Source GitHub Projects
 
